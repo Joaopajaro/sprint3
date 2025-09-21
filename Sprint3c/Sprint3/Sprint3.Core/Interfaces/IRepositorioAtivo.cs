@@ -3,9 +3,9 @@ using Sprint3.Core.Models;
 
 namespace Sprint3.Core.Interfaces
 {
-    /// <summary>
+   
     /// Contrato para operações de ativo.
-    /// </summary>
+
     public interface IRepositorioAtivo
     {
         void Adicionar(Ativo ativo);
