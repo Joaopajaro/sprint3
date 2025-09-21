@@ -8,9 +8,9 @@ using Sprint3.Core.Models;
 
 namespace Sprint3.Infrastructure.Services
 {
-    /// <summary>
+
     /// Serviço para importar ativos de arquivos JSON ou TXT.
-    /// </summary>
+
     public class ServicoArquivo : IServicoArquivo
     {
         private readonly IRepositorioAtivo _repositorioAtivo;
