@@ -1,0 +1,3 @@
+Tesouro Selic 2026|Renda Fixa|Baixo
+Fundo Multimercado XYZ|Fundo|Médio
+Ações ABC|Renda Variável|Alto

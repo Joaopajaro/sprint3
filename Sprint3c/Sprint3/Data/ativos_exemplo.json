@@ -1,0 +1,5 @@
+[
+  { "Nome": "Tesouro Selic 2026", "Classe": "Renda Fixa", "Risco": "Baixo" },
+  { "Nome": "Fundo Multimercado XYZ", "Classe": "Fundo", "Risco": "Médio" },
+  { "Nome": "Ações ABC", "Classe": "Renda Variável", "Risco": "Alto" }
+]
