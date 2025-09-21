@@ -3,9 +3,9 @@ using Sprint3.Core.Models;
 
 namespace Sprint3.Infrastructure.Data
 {
-    /// <summary>
+ 
     /// Contexto de banco de dados usando EF Core.
-    /// </summary>
+  
     public class AppDbContext : DbContext
     {
         public DbSet<Cliente> Clientes { get; set; } = null!;
