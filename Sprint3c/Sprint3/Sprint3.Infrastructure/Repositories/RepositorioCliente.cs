@@ -6,9 +6,9 @@ using Sprint3.Infrastructure.Data;
 
 namespace Sprint3.Infrastructure.Repositories
 {
-    /// <summary>
+    
     /// Implementa operações de cliente usando EF Core.
-    /// </summary>
+ 
     public class RepositorioCliente : IRepositorioCliente
     {
         private readonly AppDbContext _context;
