@@ -6,9 +6,8 @@ using Sprint3.Infrastructure.Data;
 
 namespace Sprint3.Infrastructure.Repositories
 {
-    /// <summary>
     /// Implementa operações de ativo usando EF Core.
-    /// </summary>
+   
     public class RepositorioAtivo : IRepositorioAtivo
     {
         private readonly AppDbContext _context;
